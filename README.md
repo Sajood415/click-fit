@@ -21,7 +21,7 @@ This project uses environment variables for configuration. These are stored in a
 2. Clone this repository
 3. Install dependencies: `npm install`
 4. Customize the `config.env` file with your own values if needed
-5. Start the server: `node server.js`
+5. Start the server: `npm start`
 
 ## Features
 
